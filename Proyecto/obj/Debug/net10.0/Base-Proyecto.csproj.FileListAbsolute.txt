@@ -1,0 +1,16 @@
+C:\Developer - Visual Studios\Proyecto final\Base\Base-Proyecto\obj\Debug\net10.0\Base-Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer - Visual Studios\Proyecto final\Base\Base-Proyecto\obj\Debug\net10.0\Base-Proyecto.AssemblyInfoInputs.cache
+C:\Developer - Visual Studios\Proyecto final\Base\Base-Proyecto\obj\Debug\net10.0\Base-Proyecto.AssemblyInfo.cs
+C:\Developer - Visual Studios\Proyecto final\Base\Base-Proyecto\obj\Debug\net10.0\Base-Proyecto.csproj.CoreCompileInputs.cache
+C:\Developer - Visual Studios\Proyecto final\Base\Base-Proyecto\obj\Debug\net10.0\Base-Proyecto.sourcelink.json
+C:\Developer - Visual Studios\Proyecto final\Base\Base-Proyecto\bin\Debug\net10.0\Base-Proyecto.exe
+C:\Developer - Visual Studios\Proyecto final\Base\Base-Proyecto\bin\Debug\net10.0\Base-Proyecto.deps.json
+C:\Developer - Visual Studios\Proyecto final\Base\Base-Proyecto\bin\Debug\net10.0\Base-Proyecto.runtimeconfig.json
+C:\Developer - Visual Studios\Proyecto final\Base\Base-Proyecto\bin\Debug\net10.0\Base-Proyecto.dll
+C:\Developer - Visual Studios\Proyecto final\Base\Base-Proyecto\bin\Debug\net10.0\Base-Proyecto.pdb
+C:\Developer - Visual Studios\Proyecto final\Base\Base-Proyecto\obj\Debug\net10.0\Base-Proyecto.dll
+C:\Developer - Visual Studios\Proyecto final\Base\Base-Proyecto\obj\Debug\net10.0\refint\Base-Proyecto.dll
+C:\Developer - Visual Studios\Proyecto final\Base\Base-Proyecto\obj\Debug\net10.0\Base-Proyecto.pdb
+C:\Developer - Visual Studios\Proyecto final\Base\Base-Proyecto\obj\Debug\net10.0\Base-Proyecto.genruntimeconfig.cache
+C:\Developer - Visual Studios\Proyecto final\Base\Base-Proyecto\obj\Debug\net10.0\ref\Base-Proyecto.dll
+C:\Developer - Visual Studios\Proyecto final\Base\Base-Proyecto\obj\Debug\net10.0\Base-Pro.119488BE.Up2Date
